@@ -1,0 +1,6 @@
+coverage
+codecov
+mock
+nose
+tornado
+twisted
